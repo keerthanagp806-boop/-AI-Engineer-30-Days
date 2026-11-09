@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 30 Days of AI Engineering
 
 A day-by-day record of my learning journey in AI Engineering.
@@ -17,3 +18,7 @@ See [PROGRESS-TRACKER.md](PROGRESS-TRACKER.md).
 Learn → Understand → Implement → Test → Document → Push to GitHub.
 
 > Practical note: Some programs in the first three days are beginner demonstrations/simulations. They do not claim to train or run a real large language model.
+=======
+# -AI-Engineer-30-Days
+My 30-Day Journey to Becoming an AI Engineer
+>>>>>>> 6c7e74fa3bfe7cf018a2c3d597543e38e103451d
