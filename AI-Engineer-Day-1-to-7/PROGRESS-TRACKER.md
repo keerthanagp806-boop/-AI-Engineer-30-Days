@@ -7,12 +7,12 @@ I will update this tracker after completing each day's learning topics and pract
 | Day | Topics Completed | Practical Completed | Code Completed | GitHub Commit | Status |
 |---|---|---|---|---|---|
 | 01 | [x] | [x] | [x] | [x] | COMPLETED |
-| 02 | [x] | [ ] | [ ] | [x] | IN PROGRESS |
-| 03 | [x] | [ ] | [ ] | [ ] | IN PROGRESS |
-| 04 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
-| 05 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
-| 06 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
-| 07 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
+| 02 | [x] | [x] | [x] | [x] | COMPLETED |
+| 03 | [x] | [x] | [x] | [x] | COMPLETED |
+| 04 | [x] | [x] | [x] | [x] | COMPLETED |
+| 05 | [x] | [x] | [x] | [x] | COMPLETED |
+| 06 | [x] | [x] | [x] | [x] | COMPLETED |
+| 07 | [x] | [x] | [x] | [x] | COMPLETED |
 | 08 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
 | 09 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
 | 10 | [ ] | [ ] | [ ] | [ ] | NOT STARTED |
